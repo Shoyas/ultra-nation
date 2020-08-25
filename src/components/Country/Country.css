@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    margin-bottom: 10px;
+    border-bottom: 5px double lightgray;
+}
+.flag img{
+    height: 150px;
+    width: 220px;
+    border: 2px solid white;
+}
+.country-info{
+    margin-left: 10px;
+}
